@@ -1,0 +1,13 @@
+prompt user goal 
+=> 
+user respond 
+=> 
+generate tasks 
+=> 
+prompt user information for each self prompt task
+=> 
+currentTask
+=>
+next prompt 
+=> 
+auto answer prompt
