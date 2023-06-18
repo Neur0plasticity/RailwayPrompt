@@ -1,0 +1,2 @@
+# RailwayPrompt
+Self Modifying prompt
